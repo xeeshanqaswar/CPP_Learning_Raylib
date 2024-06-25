@@ -12,6 +12,15 @@ public:
 	BinarySearchTree();
 	bool Insert(int value);
 	bool Contians(int value);
+	void BreathFirstSearch();
+	void DFSPreOrder();
+	void DFSPreOrder(TNode* node);
+
+	void DFSPostOrder();
+	void DFSPostOrder(TNode* node);
+
+	void DFSInOrder();
+	void DFSInOrder(TNode* node);
 };
 
 class TNode {

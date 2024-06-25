@@ -149,6 +149,7 @@
     <ClInclude Include="Graph.h" />
     <ClInclude Include="HashTable.h" />
     <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="main.h" />
     <ClInclude Include="stacks.h" />
     <ClInclude Include="Tree.h" />
   </ItemGroup>
